@@ -21,27 +21,30 @@ EditorBuildSettings:
     path: Assets/Levels/BoardFour.unity
     guid: 3c6e47c590b98469f85629406c65fa72
   - enabled: 1
+    path: Assets/Levels/BoardFive.unity
+    guid: 2fa7b70efa6234dd2b7dd4af2b738d72
+  - enabled: 1
     path: Assets/Levels/End.unity
     guid: c589cd6556909470eb11d5feed11aa9e
   - enabled: 0
-    path: Assets/__DELETED_GUID_Trash/fcfe3216155ebc1478a90fddd270f2b8
-    guid: fcfe3216155ebc1478a90fddd270f2b8
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Assets 1/Levels/End.unity
-    guid: 6a51dd6e37f765141b9995d16814a37d
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Assets 1/Levels/BoardFour.unity
-    guid: bb98f0ad4d2aa014bb4028980f66e31b
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Assets 1/Levels/BoardThree.unity
-    guid: 29cf3be12a4063f45be6d738ca4c4a5c
-  - enabled: 1
-    path: Assets/Assets 1/Levels/BoardTwo.unity
-    guid: c90620865ac062041819248e5be4c5dc
-  - enabled: 1
-    path: Assets/Assets 1/Levels/BoardOne.unity
-    guid: d1df23efbc09adf48a4d3a69e34948cf
-  - enabled: 1
-    path: Assets/Assets 1/Levels/Start.unity
-    guid: d46478e49915152459f17764c4c2be7b
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}

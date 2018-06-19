@@ -15,5 +15,11 @@ public class ScoreTracker : MonoBehaviour {
 		if (other.tag == "Points50") {
 			GameManager.instance.check = 50;
 		}
+		if (other.tag == "Points20") {
+			GameManager.instance.check = 20;
+		}
+		if (other.tag == "PointsNeg100") {
+			GameManager.instance.check = -100;
+		}
 	}
 }
